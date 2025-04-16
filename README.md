@@ -43,22 +43,15 @@ A scalable, cloud-based Multi-Tenant SaaS platform designed to support a variety
 
 ## Tech Stack
 
-- Frontend: React.js / Angular / HTML, CSS, JavaScript  
-- Backend: Node.js
-- Database: PostgreSQL / MongoDB (tenant-aware design)  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP
+- Database: MySQL 
 - Authentication: JWT / OAuth2  
- 
 
-## System Requirements
-
-- Node.js or Python 3.x  
-- Docker and Docker Compose (for containerized deployment)  
-- PostgreSQL / MongoDB  
-- Cloud account (optional) for deployment  
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository
    ```
    git clone https://github.com/yourusername/multi-tenant-saas-system.git
    ```
