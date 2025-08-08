@@ -1,7 +1,7 @@
 
 # Multi-Tenant SaaS Platform
 
-A scalable, cloud-based Multi-Tenant SaaS platform designed to support a variety of service-based tenants including Grocery Delivery, Medicine Delivery, E-commerce, and Restaurant Management. Each tenant operates in isolation with dedicated functionalities while sharing the same application infrastructure.
+A scalable, cloud-based Multi-Tenant SaaS platform designed to support a variety of service-based tenants, including Grocery Delivery, Medicine Delivery, E-commerce, and Restaurant Management. Each tenant operates in isolation with dedicated functionalities while sharing the same application infrastructure.
 
 ## Features
 
