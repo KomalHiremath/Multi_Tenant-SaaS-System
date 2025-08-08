@@ -38,7 +38,7 @@ A scalable, cloud-based Multi-Tenant SaaS platform designed to support a variety
 - Multi-language and multi-currency support.
 
 ### Common Features
-- Responsive design for web and mobile devices.
+- Responsive design for web and multiple devices.
 - Real-time order tracking and dashboard insights.
 
 ## Tech Stack
